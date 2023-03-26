@@ -40,13 +40,15 @@ framework”:”django”
 ![image](https://user-images.githubusercontent.com/111385394/227744770-09df2f58-e5b6-4095-b93f-660535f3f01f.png)
 
 > As you can see above, the id 9988 has been erased, and after fetching, there is no server with the id 9988 existent, as indicated in the image below.
+
 ![image](https://user-images.githubusercontent.com/111385394/227744935-1e1eb03b-c69c-48c7-94ab-45d63c408860.png)
 
 * #### GET (find) servers by name. The parameter is a string. Must check if a server name contains this string and return one or more servers found. Return 404 if nothing is found.
 > I created an api to retrieve the server by passing the particular server name  
+
 ![image](https://user-images.githubusercontent.com/111385394/227744783-4338ece2-6b27-4f5c-83de-3b233a61ac9f.png)
 
-![image](https://user-images.githubusercontent.com/111385394/227743180-cabfac56-936e-477c-9a94-69c93ba3d67e.png)
+* #### Mongodb Database
 
 ![image](https://user-images.githubusercontent.com/111385394/227744825-1541795e-483c-4e4c-92cb-c57d0e5b558f.png)
 
