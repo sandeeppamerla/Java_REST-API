@@ -15,7 +15,7 @@ Created the RestAPI using Spring Framework and for the backend mongoDB is used i
 
 Below are some of the attachecd screenshots:
 
-![image](https://user-images.githubusercontent.com/111385394/227744027-a69e8292-fff8-40a5-8f91-1ff6e50acae7.png)
+![image](https://user-images.githubusercontent.com/111385394/227761192-aeff2623-7b13-44b0-a6fb-dbfd08cd080f.png)
 
 ### ***Testing API on Postman***
 
