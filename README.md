@@ -1,6 +1,4 @@
-# Kaiburr_Task1
-
-## Task 1: Java REST API
+# Java REST API
 Name: P Bala Satya Sandeep
 
 ### ***Technologies Used***
